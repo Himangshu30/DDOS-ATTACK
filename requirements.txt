@@ -1,0 +1,3 @@
+a.scapy
+b.python 3.9 or higher
+c.NS LOOKUP[optional]
